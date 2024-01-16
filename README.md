@@ -11,3 +11,6 @@
 ## Microsoft Copilot Studio
 * [Microsoft Copilot Studio (MCS)](https://aka.ms/CopilotStudio)
 * [Customize Copilot for Microsoft 365 and build your own standalone copilots](https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/)
+
+## Copilot in...
+* [Copilot in Power BI (preview) is available worldwide](https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-preview-is-available-worldwide/)
