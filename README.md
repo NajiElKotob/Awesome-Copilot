@@ -20,3 +20,5 @@
 ## Copilot in GitHub
 * [Get Started with the Future of Coding: GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) - Visual Studio Code
 
+## Copilot in VS
+* [Building .NET MAUI Apps Faster with GitHub Copilot in Visual Studio 2022](https://www.youtube.com/watch?v=jt9VZqIKGzU)
