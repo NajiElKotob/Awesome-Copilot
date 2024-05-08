@@ -17,6 +17,7 @@
 * [Copilot for consumers now supports Apps](https://powerbi.microsoft.com/en-us/blog/copilot-updates-march-2024/)
 * [Copilot in Power BI (preview) is available worldwide](https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-preview-is-available-worldwide/)
 * [Copilot in Power BI: Soon available to more users in your organization](https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-soon-available-to-more-users-in-your-organization/)
+* [Introducing Copilot Pane in Power BI Desktop (preview)](https://powerbi.microsoft.com/en-us/blog/introducing-copilot-pane-in-power-bi-desktop-preview/) - April 2024
 
 ## Copilot in GitHub
 * [Get Started with the Future of Coding: GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) - Visual Studio Code
