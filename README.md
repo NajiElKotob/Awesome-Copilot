@@ -30,3 +30,7 @@
 
 ## Copilot in Windows
 * [Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
+
+## Related Articles
+* [What is Prompt Engineering?](https://aws.amazon.com/what-is/prompt-engineering/?nc1=h_ls) - aws.amazon.com
+  - `Prompt engineering is the process where you guide generative artificial intelligence (generative AI) solutions to generate desired outputs. Even though generative AI attempts to mimic humans, it requires detailed instructions to create high-quality and relevant output. In prompt engineering, you choose the most appropriate formats, phrases, words, and symbols that guide the AI to interact with your users more meaningfully. Prompt engineers use creativity plus trial and error to create a collection of input texts, so an application's generative AI works as expected.` 
