@@ -13,6 +13,7 @@
 * [Customize Copilot for Microsoft 365 and build your own standalone copilots](https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/)
 
 ## Copilot in Power BI
+* [Copilot in Power BI | Full Webinar Course | Beginner to Advanced](https://www.youtube.com/watch?v=J4l34uUqHtw) - Pragmatic Works
 * [Copilot for Power BI: Your Ultimate Copilot Guide 📺 ~14min](https://www.youtube.com/watch?v=0kE3TE34oLM) - Guy in a Cube
 * [Copilot for consumers now supports Apps](https://powerbi.microsoft.com/en-us/blog/copilot-updates-march-2024/)
 * [Copilot in Power BI (preview) is available worldwide](https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-preview-is-available-worldwide/)
