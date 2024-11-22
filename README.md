@@ -1,5 +1,6 @@
 # Awesome Copilot
-
+`Copilot is the UI of AI`
+<br />
 {Awesome Works in Progress}
 
 ## Learning 
@@ -33,6 +34,12 @@
 
 ## Copilot in Windows
 * [Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
+
+## Copilot Actions
+* [Copilot Actions](https://aks.ms/CopilotActions) - aks.ms/CopilotActions | New agents, and tools to empower IT teams
+
+
+-----
 
 ## Related Articles
 * [What is Prompt Engineering?](https://aws.amazon.com/what-is/prompt-engineering/?nc1=h_ls) - aws.amazon.com
