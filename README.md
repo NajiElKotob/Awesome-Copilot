@@ -32,6 +32,9 @@
 ## Copilot in VS
 * [Building .NET MAUI Apps Faster with GitHub Copilot in Visual Studio 2022](https://www.youtube.com/watch?v=jt9VZqIKGzU)
 
+## Copilot in VS Code
+* [GitHub Copilot Free for VS Code has arrived 📺](https://x.com/satyanadella/status/1869445091213095140) - @satyanadella
+
 ## Copilot in Windows
 * [Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 
