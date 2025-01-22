@@ -23,6 +23,7 @@
 * [Copilot in Power BI: Soon available to more users in your organization](https://powerbi.microsoft.com/en-us/blog/copilot-in-power-bi-soon-available-to-more-users-in-your-organization/)
 * [Introducing Copilot Pane in Power BI Desktop (preview)](https://powerbi.microsoft.com/en-us/blog/introducing-copilot-pane-in-power-bi-desktop-preview/) - April 2024
 * [Add Copilot Summaries to Power BI email subscriptions](https://powerbi.microsoft.com/en-us/blog/add-copilot-summaries-to-power-bi-email-subscriptions-preview/?cdn=disable)
+* [Write Copilot prompts for creating report pages in Power BI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-prompts-report-pages)
 
 ## Copilot in Fabric
 * [Copilot in Microsoft Fabric | Ultimate demo of copilots in Notebooks - DS & DE](https://www.youtube.com/watch?v=H3LND_ErY5U) - Azure Synapse Analytics
