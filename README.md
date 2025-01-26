@@ -9,7 +9,7 @@
 ## Microsoft Copilot 
 * [Announcing Microsoft 365 Copilot general availability and Microsoft 365 Chat](https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/)
 * [Microsoft 365 Copilot Wave Two updates - Pages, Excel, OneDrive, and agents](https://www.youtube.com/watch?v=u7RtGa0erU8) - Microsoft Mechanics
-
+* [Unlocking autonomous agent capabilities with Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/unlocking-autonomous-agent-capabilities-with-microsoft-copilot-studio/?msockid=384df28e91e76f200fc5e7c790ff6e63)
 
 ## Microsoft Copilot Studio
 * [Microsoft Copilot Studio (MCS)](https://aka.ms/CopilotStudio)
