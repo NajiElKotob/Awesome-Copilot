@@ -27,6 +27,7 @@
 
 ## Copilot in Fabric
 * [Copilot in Microsoft Fabric | Ultimate demo of copilots in Notebooks - DS & DE](https://www.youtube.com/watch?v=H3LND_ErY5U) - Azure Synapse Analytics
+* [Copilot for Data Factory](https://learn.microsoft.com/en-us/copilot/tutorials/copilot-in-microsoft-fabric?tutorial-step=1)
 
 ## Copilot in GitHub
 * [Get Started with the Future of Coding: GitHub Copilot](https://www.youtube.com/watch?v=Fi3AJZZregI) - Visual Studio Code
