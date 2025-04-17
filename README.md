@@ -12,6 +12,7 @@
 * [Unlocking autonomous agent capabilities with Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/unlocking-autonomous-agent-capabilities-with-microsoft-copilot-studio/?msockid=384df28e91e76f200fc5e7c790ff6e63)
 
 ## Microsoft Copilot Studio
+* [Copilot Studio](https://copilotstudio.microsoft.com/) ⭐ - copilotstudio.microsoft.com
 * [Microsoft Copilot Studio (MCS)](https://aka.ms/CopilotStudio)
 * [Customize Copilot for Microsoft 365 and build your own standalone copilots](https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/)
 
